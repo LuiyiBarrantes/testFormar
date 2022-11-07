@@ -1,1 +1,1 @@
-const= ["naranja","piña","kiwi"]
+const frutas= ["naranja","piña","kiwi"]
