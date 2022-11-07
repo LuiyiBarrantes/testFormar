@@ -1,1 +1,1 @@
-const= ["lechuga","cebolla"]
+const= ["lechuga","cebolla","papa"]
